@@ -1,3 +1,3 @@
-# Loja-
+# loja
 JPA
 HIBERNATE
