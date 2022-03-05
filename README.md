@@ -1,1 +1,3 @@
 # Loja-
+JPA
+HIBERNATE
